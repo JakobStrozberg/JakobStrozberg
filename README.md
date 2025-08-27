@@ -14,15 +14,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **BEng Aerospace Engineering @ Toronto Metropolitan University (TMU)** — Dean’s List (2023–2025), GPA **3.4/4.33**, graduating **Apr 2025**
+- 🎓 **BEng Aerospace Engineering @ Toronto Metropolitan University (TMU)** 
 - 📚 **Thesis:** “Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters” (2024)
 - 🌍 Based in Toronto, ON, Canada
 
 ---
 
-## 💼 Work Experience
+## 💼 Dev Experience
 
 **Product Analyst @ Getbuho.com** *(Jan 2025 – Present, Toronto ON)*
 - Scaled a venture-backed startup from 0 → 100 + users by delivering financial modelling tools for early-stage B2B SaaS companies.
@@ -39,17 +39,13 @@
 - Cut data-training requirements by **98 %** by fusing Kalman filters with Transformer models.
 - Contributed to model architecture & evaluation; publication submitted for peer review.
 
-**Avionics Lead @ MetRocketry** *(Sept 2020 – Apr 2023, Toronto ON)*
-- Led a 7-member team designing, building, and launching high-powered rockets at Spaceport America Cup (top 38 %).
-- Oversaw PCB fabrication, firmware, and telemetry systems using **KiCad** and **C/C++**.
-
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, C/C++, TypeScript, R, JavaScript, Java, Rust, CSS  
-**Tech Stack / Tools:** TensorFlow, PyTorch, AWS, Azure, React.js, SQL, Node.js, Retrieval-Augmented Generation, Claude Code, VIM  
-
+**Languages:** Python, JavaScript, TypeScript, Java, C#, HTML, CSS, React.js, Next.js, React Native, Flask
+**Tech Stack / Tools:** TensorFlow, PyTorch, AWS, Azure, React.js, SQL, Node.js, Retrieval-Augmented Generation, Claude Code, VIM, REST API's  
+**Cloud & DevOps:** GCP, Docker, Bitbucket, GitHub Actions, Jenkins, Cloudflare Workers, Terraform, Agile, CI/CD
 ---
 
 ## 🚀 Projects
