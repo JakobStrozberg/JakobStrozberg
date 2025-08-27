@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jakob+Sol+Strozberg%F0%9F%91%8B;Aerospace+Engineering+Student+%40+TMU;ML+%26+Product+Enthusiast%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jakob+Sol+Strozberg%F0%9F%91%8B;Aerospace+Engineering+Graduate+%40+TMU;ML+%26+Product+Enthusiast%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,37 +14,59 @@
 
 ---
 
-## About Me
+## About Me  
 
-- 🎓 **BEng Aerospace Engineering @ Toronto Metropolitan University (TMU)** 
-- 📚 **Thesis:** “Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters” (2024)
-- 🌍 Based in Toronto, ON, Canada
+- 🎓 **BEng in Aerospace Engineering** from Toronto Metropolitan University (TMU)  
+- 📚 Completed my 2024 thesis: *Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters*
+- 🌍 Based in Toronto, ON, Canada  
+
+<a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
+    <span style="font-weight:600;color:#ffffff;">📄 Read my Thesis!</span>
+  </div>
+</a>  
+
+
 
 ---
 
 ## 💼 Dev Experience
-
-**Product Analyst @ Getbuho.com** *(Jan 2025 – Present, Toronto ON)*
-- Scaled a venture-backed startup from 0 → 100 + users by delivering financial modelling tools for early-stage B2B SaaS companies.
-- Implemented core product features through prompt engineering with **React.js**, **TypeScript**, and **CSS**.
-- Integrated Brex API for automated purchase tracking, boosting transaction coverage by **40 %**.
 
 **Co-founder & Founding Engineer @ Viable, Inc.** *(Sept 2023 – Jan 2025, Toronto ON)*
 - Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
 - Generated **$10.1 k ARR** in < 1 year, onboarded 10 + B2B clients, and secured **$50 k** in pre-seed funding.
 - Built proprietary eye-contact detection pipelines with **Python** & **TensorFlow**, reducing false positives by **99 %**.
 
+**Product Analyst @ Getbuho.com** *(Jan 2025 – Present, Toronto ON)*
+- Scaled a venture-backed startup from 0 → 100 + users by delivering financial modelling tools for early-stage B2B SaaS companies.
+- Implemented core product features through prompt engineering with **React.js**, **TypeScript**, and **CSS**.
+- Integrated Brex API for automated purchase tracking, boosting transaction coverage by **40 %**.
+
+  <a href="https://getbuho.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
+    <span style="font-weight:600;color:#ffffff;">📄 Company Link</span>
+  </div>
+</a>  
+
 **Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024, Toronto ON)*
 - Developed computer-vision software predicting pedestrian paths with deep neural networks (MSE: 500 px).
 - Cut data-training requirements by **98 %** by fusing Kalman filters with Transformer models.
 - Contributed to model architecture & evaluation; publication submitted for peer review.
+
+    <a href="https://www.torontomu.ca/autonomous-vehicles-lab/people/jakob-sol-strozberg/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
+    <span style="font-weight:600;color:#ffffff;">📄 Labratory Link</span>
+  </div>
+</a>  
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:** Python, JavaScript, TypeScript, Java, C#, HTML, CSS, React.js, Next.js, React Native, Flask
+
 **Tech Stack / Tools:** TensorFlow, PyTorch, AWS, Azure, React.js, SQL, Node.js, Retrieval-Augmented Generation, Claude Code, VIM, REST API
+
 **Cloud & DevOps:** GCP, Docker, Bitbucket, GitHub Actions, Jenkins, Cloudflare Workers, Terraform, Agile, CI/CD
 
 ---
