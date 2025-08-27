@@ -1,0 +1,79 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jakob+Sol+Strozberg%F0%9F%91%8B;Aerospace+Engineering+Student+%40+TMU;ML+%26+Product+Enthusiast%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jakobsolstrozberg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Jakob.solstrozberg@torontomu.ca" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jakobsolstrozberg&label=Profile%20views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **BEng Aerospace Engineering @ Toronto Metropolitan University (TMU)** — Dean’s List (2023–2025), GPA **3.4/4.33**, graduating **Apr 2025**
+- 📚 **Thesis:** “Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters” (2024)
+- 🌍 Based in Toronto, ON, Canada
+
+---
+
+## 💼 Work Experience
+
+**Product Analyst @ Getbuho.com** *(Jan 2025 – Present, Toronto ON)*
+- Scaled a venture-backed startup from 0 → 100 + users by delivering financial modelling tools for early-stage B2B SaaS companies.
+- Implemented core product features through prompt engineering with **React.js**, **TypeScript**, and **CSS**.
+- Integrated Brex API for automated purchase tracking, boosting transaction coverage by **40 %**.
+
+**Co-founder & Founding Engineer @ Viable, Inc.** *(Sept 2023 – Jan 2025, Toronto ON)*
+- Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
+- Generated **$10.1 k ARR** in < 1 year, onboarded 10 + B2B clients, and secured **$50 k** in pre-seed funding.
+- Built proprietary eye-contact detection pipelines with **Python** & **TensorFlow**, reducing false positives by **99 %**.
+
+**Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024, Toronto ON)*
+- Developed computer-vision software predicting pedestrian paths with deep neural networks (MSE: 500 px).
+- Cut data-training requirements by **98 %** by fusing Kalman filters with Transformer models.
+- Contributed to model architecture & evaluation; publication submitted for peer review.
+
+**Avionics Lead @ MetRocketry** *(Sept 2020 – Apr 2023, Toronto ON)*
+- Led a 7-member team designing, building, and launching high-powered rockets at Spaceport America Cup (top 38 %).
+- Oversaw PCB fabrication, firmware, and telemetry systems using **KiCad** and **C/C++**.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, C/C++, TypeScript, R, JavaScript, Java, Rust, CSS  
+**Tech Stack / Tools:** TensorFlow, PyTorch, AWS, Azure, React.js, SQL, Node.js, Retrieval-Augmented Generation, Claude Code, VIM  
+
+---
+
+## 🚀 Projects
+
+- **[no-name-shopping-list](#)**  
+  🛒 Collaborative family shopping list app with smart suggestions and rewards for No Name brand products. <sub>TypeScript</sub>
+
+- **[PedestrianPredictor](#)**  
+  🤖 Pedestrian trajectory prediction using Deep Learning Transformers and Kalman Filters. <sub>Python</sub>
+
+- **[OpenSesameV2](#)**  
+  🔑 Browser extension agent powered by Langchain and Playwright. <sub>JavaScript</sub>
+
+- **[Custom-Neural-Networks-for-fatigue-analysis](#)**  
+  🩺 Custom deep CNNs built with TensorFlow to detect cracks and abrasions. <sub>Python</sub>
+
+- **[Physics-Notes-Website](#)**  
+  📚 Website hosting free physics notes at jakesphysicsnotes.com. <sub>HTML</sub>
+
+- **[ForemanVideoGame](#)**  
+  🎮 16-bit style mobile game built with **C#**, **.NET**, and **MonoGame**.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+</p>
