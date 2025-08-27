@@ -44,8 +44,9 @@
 ## 🛠️ Technical Skills
 
 **Languages:** Python, JavaScript, TypeScript, Java, C#, HTML, CSS, React.js, Next.js, React Native, Flask
-**Tech Stack / Tools:** TensorFlow, PyTorch, AWS, Azure, React.js, SQL, Node.js, Retrieval-Augmented Generation, Claude Code, VIM, REST API's  
+**Tech Stack / Tools:** TensorFlow, PyTorch, AWS, Azure, React.js, SQL, Node.js, Retrieval-Augmented Generation, Claude Code, VIM, REST API
 **Cloud & DevOps:** GCP, Docker, Bitbucket, GitHub Actions, Jenkins, Cloudflare Workers, Terraform, Agile, CI/CD
+
 ---
 
 ## 🚀 Projects
