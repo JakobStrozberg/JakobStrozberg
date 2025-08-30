@@ -6,7 +6,7 @@
 
 ## Thanks for visiting my github! Here are some quick highlights of some projects I have been involved in:
 
-**Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024)*
+**Researcher @ Autonomous Vehicles Laboratory** 
 - Developed a computer-vision software predicting future pedestrian motion with deep neural networks based on posture and environment (MSE: 500 px).
 - Cut data-training requirements by over **98 %** by fusing Kalman filters with Transformer models while maintaing competitive accuracy.
 - Contributed to model architecture & evaluation; publication submitted for peer review.<a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
@@ -17,23 +17,22 @@
 
 
 
-**Co-founder & Founding Engineer @ Viable, Inc.** *(Sept 2023 – Jan 2025, Toronto ON)*
+**Co-founder & Founding Engineer @ Viable, Inc.**
 - Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
 - Generated **$10.1 k ARR** in < 1 year, onboarded 10 + B2B clients, and secured **$50 k** in pre-seed funding.
 - Built proprietary eye-contact detection pipelines with **Python** & **TensorFlow**, reducing false positives by **99 %**.
 
-**Product Analyst @ Getbuho.com** *(Jan 2025 – Present, Toronto ON)*
+**Product Analyst @ Getbuho.com** 
 - Scaled a venture-backed startup from 0 → 100 + users by delivering financial modelling tools for early-stage B2B SaaS companies.
 - Implemented core product features through prompt engineering with **React.js**, **TypeScript**, and **CSS**.
 - Integrated Brex API for automated purchase tracking, boosting transaction coverage by **40 %**.
-
   <a href="https://getbuho.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
     <span style="font-weight:600;color:#ffffff;">📄 Company Link</span>
   </div>
 </a>  
 
-**University Physics Tutor** *(Jan 2025 – Present, Toronto ON)*
+**University Physics Tutor** 
 - University physics tutor (year 1-4) with a focus on fluid mechanics and aerodynamics
 - I build a reference website for my students, available for free here: https://jakesphysicsnotes.com/
 
