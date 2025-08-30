@@ -4,19 +4,18 @@
 
 ---
 
-Thanks for checking my github out! Heres an overview of some stuff I have built.
+Thanks for checking my github out! Heres an overview:
 
-## Stuff I have done.
+## Thanks for checking my github out! Here are some quick highlights of projects I have been involved in:
 
 **Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024)*
-- Developed a computer-vision software predicting pedestrian motion with deep neural networks (MSE: 500 px).
+- Developed a computer-vision software predicting future pedestrian motion with deep neural networks based on posture and environment (MSE: 500 px).
 - Cut data-training requirements by over **98 %** by fusing Kalman filters with Transformer models while maintaing competitive accuracy.
 - Contributed to model architecture & evaluation; publication submitted for peer review.<a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
     <span style="font-weight:600;color:#ffffff;">📄 Read my Thesis here!</span>
   </div>
 </a>  
-
 
 
 
@@ -35,6 +34,11 @@ Thanks for checking my github out! Heres an overview of some stuff I have built.
     <span style="font-weight:600;color:#ffffff;">📄 Company Link</span>
   </div>
 </a>  
+
+**University Physics Tutor** *(Jan 2025 – Present, Toronto ON)*
+- University physics tutor (year 1-4) with a focus on fluid mechanics and aerodynamics
+- I build a reference website for my students, available for free here: https://jakesphysicsnotes.com/
+
 
 
 ---
