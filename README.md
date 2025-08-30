@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jakob+Sol+Strozberg%F0%9F%91%8B;Aerospace+Engineering+Graduate+%40+TMU;ML+%26+Product+Enthusiast%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jakob%F0%9F%91%8B;Aerospace+Engineering+Graduate+%40+TMU;ML+%26+Product+Enthusiast%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,8 @@
 
 ## About Me  
 
-- 🎓 **BEng in Aerospace Engineering** from Toronto Metropolitan University (TMU)  
-- 📚 Completed my 2024 thesis: *Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters*
-- 🌍 Based in Toronto, ON, Canada  
+- **BEng in Aerospace Engineering** from Toronto Metropolitan University (TMU)  
+- Completed my 2024 thesis: *Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters*
 
 <a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
@@ -30,7 +29,7 @@
 
 ---
 
-## 💼 Dev Experience
+## Experience
 
 **Co-founder & Founding Engineer @ Viable, Inc.** *(Sept 2023 – Jan 2025, Toronto ON)*
 - Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
@@ -61,17 +60,7 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-**Languages:** Python, JavaScript, TypeScript, Java, C#, HTML, CSS, React.js, Next.js, React Native, Flask
-
-**Tech Stack / Tools:** TensorFlow, PyTorch, AWS, Azure, React.js, SQL, Node.js, Retrieval-Augmented Generation, Claude Code, VIM, REST API
-
-**Cloud & DevOps:** GCP, Docker, Bitbucket, GitHub Actions, Jenkins, Cloudflare Workers, Terraform, Agile, CI/CD
-
----
-
-## 🚀 Projects
+## Projects
 
 - **[no-name-shopping-list](#)**  
   🛒 Collaborative family shopping list app with smart suggestions and rewards for No Name brand products. <sub>TypeScript</sub>
