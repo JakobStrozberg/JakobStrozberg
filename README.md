@@ -4,7 +4,7 @@
 
 ---
 
-## Welcome! Here are some quick highlights:
+## Welcome! Here are some quick highlights of my work:
 
 **Researcher @ Autonomous Vehicles Laboratory** 
 - Developed a computer-vision software predicting future pedestrian motion with deep neural networks based on posture and environment (MSE: 500 px).
