@@ -11,10 +11,7 @@ Thanks for checking my github out! Heres an overview of some stuff I have built.
 **Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024)*
 - Developed a computer-vision software predicting pedestrian motion with deep neural networks (MSE: 500 px).
 - Cut data-training requirements by over **98 %** by fusing Kalman filters with Transformer models while maintaing competitive accuracy.
-- Contributed to model architecture & evaluation; publication submitted for peer review.
-
-
-<a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+- Contributed to model architecture & evaluation; publication submitted for peer review.<a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
     <span style="font-weight:600;color:#ffffff;">📄 Read my Thesis here!</span>
   </div>
