@@ -4,7 +4,7 @@
 
 ---
 
-## Thanks for visiting my github! Here are some quick highlights of some projects I have been involved in:
+## Hey there! Here are some quick highlights of some projects I have been involved in:
 
 **Researcher @ Autonomous Vehicles Laboratory** 
 - Developed a computer-vision software predicting future pedestrian motion with deep neural networks based on posture and environment (MSE: 500 px).
@@ -14,8 +14,6 @@
     <span style="font-weight:600;color:#ffffff;">📄 Read my Thesis here!</span>
   </div>
 </a>  
-
-
 
 **Co-founder & Founding Engineer @ Viable, Inc.**
 - Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
@@ -35,30 +33,6 @@
 **University Physics Tutor** 
 - University physics tutor (year 1-4) with a focus on fluid mechanics and aerodynamics
 - I build a reference website for my students, available for free here: https://jakesphysicsnotes.com/
-
-
-
----
-
-## Projects on my github.
-
-- **[no-name-shopping-list](#)**  
-  🛒 Collaborative family shopping list app with smart suggestions and rewards for No Name brand products. <sub>TypeScript</sub>
-
-- **[PedestrianPredictor](#)**  
-  🤖 Pedestrian trajectory prediction using Deep Learning Transformers and Kalman Filters. <sub>Python</sub>
-
-- **[OpenSesameV2](#)**  
-  🔑 Browser extension agent powered by Langchain and Playwright. <sub>JavaScript</sub>
-
-- **[Custom-Neural-Networks-for-fatigue-analysis](#)**  
-  🩺 Custom deep CNNs built with TensorFlow to detect cracks and abrasions. <sub>Python</sub>
-
-- **[Physics-Notes-Website](#)**  
-  📚 Website hosting free physics notes at jakesphysicsnotes.com. <sub>HTML</sub>
-
-- **[ForemanVideoGame](#)**  
-  🎮 16-bit style mobile game built with **C#**, **.NET**, and **MonoGame**.
 
 ---
 
