@@ -21,6 +21,8 @@ Thanks for checking my github out! Heres an overview of some stuff I have built.
 </a>  
 
 
+
+
 **Co-founder & Founding Engineer @ Viable, Inc.** *(Sept 2023 – Jan 2025, Toronto ON)*
 - Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
 - Generated **$10.1 k ARR** in < 1 year, onboarded 10 + B2B clients, and secured **$50 k** in pre-seed funding.
