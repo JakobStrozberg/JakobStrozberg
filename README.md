@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jakob%F0%9F%91%8B;Aerospace+Engineering+Graduate+%40+TMU;ML+%26+Product+Enthusiast%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jakob%F0%9F%91%8B;Aerospace+Engineering+Graduate;ML+%26+Enthusiast%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-- Completed my 2024 thesis: *Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters*
+
+## Stuff I have done.
+
+- **Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024, Toronto ON)*
+- Developed computer-vision software predicting pedestrian motion with deep neural networks (MSE: 500 px).
+- Cut data-training requirements by **98 %** by fusing Kalman filters with Transformer models.
+- Contributed to model architecture & evaluation; publication submitted for peer review.
+
 
 <a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
@@ -12,11 +19,12 @@
   </div>
 </a>  
 
+    <a href="https://www.torontomu.ca/autonomous-vehicles-lab/people/jakob-sol-strozberg/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
+    <span style="font-weight:600;color:#ffffff;">📄 Labratory Link</span>
+  </div>
+</a>  
 
-
----
-
-## Stuff I have done.
 
 **Co-founder & Founding Engineer @ Viable, Inc.** *(Sept 2023 – Jan 2025, Toronto ON)*
 - Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
@@ -34,16 +42,6 @@
   </div>
 </a>  
 
-**Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024, Toronto ON)*
-- Developed computer-vision software predicting pedestrian paths with deep neural networks (MSE: 500 px).
-- Cut data-training requirements by **98 %** by fusing Kalman filters with Transformer models.
-- Contributed to model architecture & evaluation; publication submitted for peer review.
-
-    <a href="https://www.torontomu.ca/autonomous-vehicles-lab/people/jakob-sol-strozberg/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-  <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
-    <span style="font-weight:600;color:#ffffff;">📄 Labratory Link</span>
-  </div>
-</a>  
 
 ---
 
