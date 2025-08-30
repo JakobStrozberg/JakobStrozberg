@@ -4,9 +4,7 @@
 
 ---
 
-Thanks for checking my github out! Heres an overview:
-
-## Thanks for checking my github out! Here are some quick highlights of projects I have been involved in:
+## Thanks for visiting my github! Here are some quick highlights of some projects I have been involved in:
 
 **Researcher @ Autonomous Vehicles Laboratory** *(Sept 2023 – Apr 2024)*
 - Developed a computer-vision software predicting future pedestrian motion with deep neural networks based on posture and environment (MSE: 500 px).
