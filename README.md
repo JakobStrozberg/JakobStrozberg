@@ -4,9 +4,6 @@
 
 ---
 
-## About Me  
-
-- **BEng in Aerospace Engineering** from Toronto Metropolitan University (TMU)  
 - Completed my 2024 thesis: *Pedestrian Trajectory Prediction with Deep Learning Transformers and Kalman Filters*
 
 <a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
@@ -19,7 +16,7 @@
 
 ---
 
-## Experience
+## Stuff I have done.
 
 **Co-founder & Founding Engineer @ Viable, Inc.** *(Sept 2023 – Jan 2025, Toronto ON)*
 - Designed, launched, and sold a computer-vision analytics platform offering real-time engagement data for OOH ads.
@@ -50,7 +47,7 @@
 
 ---
 
-## Projects
+## Projects on my github.
 
 - **[no-name-shopping-list](#)**  
   🛒 Collaborative family shopping list app with smart suggestions and rewards for No Name brand products. <sub>TypeScript</sub>
