@@ -4,7 +4,7 @@
 
 ---
 
-Hey there, thanks for checking my github out! Heres an overview below.
+Thanks for checking my github out! Heres an overview of some stuff I have built.
 
 ## Stuff I have done.
 
