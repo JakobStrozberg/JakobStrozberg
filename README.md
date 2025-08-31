@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jake%F0%9F%91%8B;Aerospace+Engineering+Graduate;ML+Researcher%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
----
+hi, i'm Jake!
 
-## Welcome! Here are some quick highlights of my work/projects:
+i'm exploring agentic software, simple tools, and clean infra.
+interested in building things that customers pay for.
+
+## Here are some quick highlights of my work/projects:
 
 **Researcher @ Autonomous Vehicles Laboratory** 
 - Developed and published research on computer-vision software that predicts pedestrian trajectories using Transformer models trained on posture and environment data, reducing training requirements by over 98% through the fusion of Kalman filters while maintaining competitive accuracy.<div style="display:flex;gap:10px;">
@@ -38,8 +38,6 @@
     <span style="font-weight:600;color:#ffffff;">📄 Company Link</span>
   </div>
 </a>  
-
-**Check out some more open-source projects below. I have everything from video games to LLM+Langchain powered browser extensions.**
 
 ---
 
