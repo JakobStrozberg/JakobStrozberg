@@ -7,14 +7,14 @@
 ## Welcome! Here are some quick highlights of my work:
 
 **Researcher @ Autonomous Vehicles Laboratory** 
-- Developed a computer-vision software predicting future pedestrian motion with deep neural networks based on posture and environment (MSE: 500 px) while cutting data-training requirements by over **98 %** by fusing Kalman filters with Transformer models while maintaing competitive accuracy.<a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+- Developed a computer-vision software which predicts the future path of a pedestrian. Created using Transformers trained on posture and environment data while cutting data-training requirements by over **98 %** by fusing Kalman filters with Transformer models while maintaing competitive accuracy.<a href="https://figshare.com/articles/thesis/Pedestrian_Trajectory_Prediction_with_Deep_Learning_Transformers_and_Kalman_Filters/25613349?file=45688998" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
     <span style="font-weight:600;color:#ffffff;">📄 Read my Thesis here!</span>
   </div>
 </a>  
 
 **Co-founder & Founding Engineer @ Viable, Inc.**
-- Designed, launched, and sold a computer-vision analytics platform with proprietary Python/TensorFlow eye-contact detection pipelines (99% false positive reduction), generating $10.1k ARR in under a year, onboarding 10+ B2B clients, and securing $50k in pre-seed funding.
+- Designed, launched, and sold a computer-vision analytics platform with proprietary Python/TensorFlow eye-contact detection pipelines. generating $10.1k ARR in under a year, onboarding 10+ B2B clients, and securing $50k in pre-seed funding.
 
 **Product @ Getbuho.com** 
 - Scaled a venture-backed startup from 0→100+ users by delivering financial modeling tools for early-stage B2B SaaS companies, implementing core features through prompt engineering with React.js/TypeScript/CSS, and integrating the Brex API to boost transaction coverage by 40%.
