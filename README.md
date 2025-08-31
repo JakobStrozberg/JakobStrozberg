@@ -33,7 +33,7 @@ interested in building things that customers pay for.
 </a>  
 
 **Product @ Getbuho.com** 
-- Scaled a venture-backed startup from 0→100+ users by delivering financial modeling tools for early-stage B2B SaaS companies, implementing core features through prompt engineering with React.js/TypeScript/CSS, and integrating the Brex API to boost transaction coverage by 40%. (Code is kept private).
+- Scaled a venture-backed startup from 0→100+ users by delivering financial modeling tools for early-stage B2B SaaS companies, implementing core features through prompt engineering with React.js/TypeScript/CSS, and integrating the Brex API to boost transaction coverage by 40%. 
   <a href="https://getbuho.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
     <span style="font-weight:600;color:#ffffff;">📄 Company Link</span>
