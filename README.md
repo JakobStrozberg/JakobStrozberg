@@ -1,7 +1,7 @@
 
 hi, i'm Jake!
 
-i'm exploring agentic software, simple tools, and clean infra.
+i'm exploring agentic software, video games, and clean infra.
 interested in building things that customers pay for.
 
 ## Here are some quick highlights of my work/projects:
