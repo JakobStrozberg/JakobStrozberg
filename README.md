@@ -20,16 +20,17 @@ interested in building things that customers pay for.
   </a>
 </div>
 
-**University Physics Tutor** 
+
+**Co-founder & Founding Engineer @ Viable, Inc.**
+- Designed, launched, and sold a computer-vision analytics platform with proprietary Python/TensorFlow eye-contact detection pipelines. generating $10.1k ARR in under a year, onboarding 10+ B2B clients, and securing $50k in pre-seed funding. (Code is kept private).
+
+**University Engineering/Physics Tutor** 
 - University physics tutor (year 1-4) with a focus on fluid mechanics and aerodynamics. I built a reference website for my students, available for free <a href="https://jakesphysicsnotes.com/" target="_blank" rel="noopener noreferrer">here</a>.
   <a href="https://github.com/JakobStrozberg/Physics-Notes-Website" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="display:inline-block;padding:10px 16px;border-radius:10px;border:1px solid #0366d6;background:#0d1117;">
     <span style="font-weight:600;color:#ffffff;">Code</span>
   </div>
 </a>  
-
-**Co-founder & Founding Engineer @ Viable, Inc.**
-- Designed, launched, and sold a computer-vision analytics platform with proprietary Python/TensorFlow eye-contact detection pipelines. generating $10.1k ARR in under a year, onboarding 10+ B2B clients, and securing $50k in pre-seed funding. (Code is kept private).
 
 **Product @ Getbuho.com** 
 - Scaled a venture-backed startup from 0→100+ users by delivering financial modeling tools for early-stage B2B SaaS companies, implementing core features through prompt engineering with React.js/TypeScript/CSS, and integrating the Brex API to boost transaction coverage by 40%. (Code is kept private).
