@@ -1,7 +1,7 @@
 
 hi, i'm Jake!
 
-interested in building things that customers pay for.
+interested in building things that people want.
 
 ## Here are some quick highlights of my work/projects:
 
