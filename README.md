@@ -1,5 +1,5 @@
 
-## Here are some quick highlights of my work/projects:
+## Here are some quick highlights:
 
 **Researcher @ Autonomous Vehicles Laboratory** 
 - Developed and published research on computer-vision software that predicts pedestrian trajectories using Transformer models trained on posture and environment data, reducing training requirements by over 98% through the fusion of Kalman filters while maintaining competitive accuracy.<div style="display:flex;gap:10px;">
