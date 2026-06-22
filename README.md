@@ -1,8 +1,4 @@
 
-hi, i'm Jake!
-
-interested in building things that people want.
-
 ## Here are some quick highlights of my work/projects:
 
 **Researcher @ Autonomous Vehicles Laboratory** 
